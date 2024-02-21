@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "613403540161",
+    "project_id": "login-android-2b77a",
+    "storage_bucket": "login-android-2b77a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:613403540161:android:bb92b90a6f13751fba7240",
+        "android_client_info": {
+          "package_name": "com.muskan.kumar"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLEw54k_BK8_VcwtrxDAff5riM2l6pZR8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,10 +1,16 @@
 import { StatusBar } from 'expo-status-bar';
-import { StyleSheet, Text, View } from 'react-native';
+import { StyleSheet, Text, View, Button} from 'react-native';
+
+const signIn = () => {
+  // Add support for Google and Facebook sign in
+}
 
 export default function App() {
   return (
     <View style={styles.container}>
-      <Text>Open up App.js to start working on your app!</Text>
+      <Text>Welcome to YOGINE Health </Text>
+      <Button title="Sign in with Google" onPress={signIn} />
+      <Button title="Sign in with Facebook" onPress={signIn} />
       <StatusBar style="auto" />
     </View>
   );
